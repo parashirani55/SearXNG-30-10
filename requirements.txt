@@ -36,7 +36,7 @@ pandas==2.3.3
 pillow==11.3.0
 playwright==1.42.0
 postgrest==2.21.1
-protobuf==6.32.1
+protobuf==5.28.3
 pyarrow==21.0.0
 pycparser==2.23
 pydantic==2.12.0
